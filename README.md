@@ -1,1 +1,1 @@
-# Project objective
+# Pizza-sales (SQL)
