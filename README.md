@@ -9,3 +9,5 @@ To solve the KPI's to better the business understanding and to be on profitable 
 - List the top 5 Most ordered pizza types along with their quantities.
 ## Dashboard interaction of schema 
 - <a href= "https://github.com/Ayankhannn/Pizza-Sales---SQL/blob/main/schema.png">View Schema<a/>
+## Process
+
